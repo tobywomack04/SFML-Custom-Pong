@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CA2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Ball.cpp
+  Bat.cpp
+  Box.cpp
+  Pong.cpp
+C:\2dgd\classroom code\CA2\CA2\code\Pong.cpp(421,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2\CA2\code\Pong.cpp(428,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2\CA2\code\Pong.cpp(428,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2\CA2\code\Pong.cpp(437,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2\CA2\code\Pong.cpp(437,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2\CA2\code\Pong.cpp(446,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2\CA2\code\Pong.cpp(446,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2\CA2\code\Pong.cpp(474,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PowerUp.cpp
+  Generating Code...
+  CA2.vcxproj -> C:\2dgd\classroom code\CA2\x64\Debug\Pong game.exe
